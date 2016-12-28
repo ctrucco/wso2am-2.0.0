@@ -1,6 +1,8 @@
 ![Docker Logo](https://github.com/ctrucco/wso2am-2.0.0/blob/master/vertigo-docker.png)
-# wso2am-2.0.0
-Wso2 API Manager
+
+# Wso2 API Manager
+
+### wso2am-2.0.0
 
 Roteiro:
 
